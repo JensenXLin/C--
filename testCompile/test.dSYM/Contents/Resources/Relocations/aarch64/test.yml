@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/jensen/代码/C++/testCompile/test"
+relocations:     []
+...
